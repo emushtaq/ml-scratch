@@ -10,7 +10,7 @@ labels = [0, 0, 1, 1, 1]
 clf = tree.DecisionTreeClassifier()
 
 # Training the classifier with training data
-clf = clf.fit(features, labels)
+clf.fit(features, labels)
 
 # Predicting using the classifier
 input_weight = input("Enter the weight of the fruit: ")
