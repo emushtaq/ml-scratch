@@ -12,4 +12,6 @@ Practising lessons from Machine Learning Recipes : https://goo.gl/KewA03
 
 - #4 Basic pipeline for supervised learning comparing different classifiers. Understanding the approach to choosing and optimizing a model. https://www.youtube.com/watch?v=84gqSbLcBFE
 
+- #5 Writing a classifier (knn) https://www.youtube.com/watch?v=AoeEHqVSNOw
+
 
