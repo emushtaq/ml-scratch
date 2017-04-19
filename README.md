@@ -14,4 +14,9 @@ Practising lessons from Machine Learning Recipes : https://goo.gl/KewA03
 
 - #5 Writing a classifier (knn) https://www.youtube.com/watch?v=AoeEHqVSNOw
 
+- #6 Train an image classifier with tensorflow for poets https://www.youtube.com/watch?v=cSKfRcEDGUs
+  Image dataset from : http://download.tensorflow.org/example_images/flower_photos.tgz
+
+- #7 Classifying the MNIST dataset with Tensorflow https://www.youtube.com/watch?v=Gj0iyo265bc (notebook and standalone python script)
+
 
